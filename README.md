@@ -1,5 +1,12 @@
 RFID Smart Door Lock System 🔐
 
+---
+## 📽️ Project Demo
+Check out the working video demonstration of the project:
+👉 **[Watch the Demo Video on LinkedIn](https://www.linkedin.com/posts/ahmed-ashraf-abdoun_arduino-embeddedsystems-rfid-activity-7471212958212091904-G_zU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFzffFcBcJHshVkb0FFzBLMRdlbfaMp3SXY)**
+
+---
+
 📌 Overview
 
 This project is a simple smart door lock system built using Arduino and an RFID module (RC522).
